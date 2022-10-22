@@ -23,7 +23,7 @@ yarn dev
 
 ## Examples
 
-Give name to your project and set up to 60 minutes.
+Give name to your project and set up from 5 to 60 minutes.
 No database, no extra-content.
 <p align="center">
   <img src="https://i.ibb.co/fvHN0Rz/Screen1.png">
