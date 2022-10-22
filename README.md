@@ -25,6 +25,17 @@ yarn dev
 
 Give name to your project and set up to 60 minutes.
 No database, no extra-content.
+<p align="center">
+  <img src="https://i.ibb.co/fvHN0Rz/Screen1.png">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/27rQ3rG/Screen2.png">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/3hwhBj6/Screen3.png">
+</p>
+
+
 
 ## Authors
 
